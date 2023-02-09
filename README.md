@@ -12,3 +12,7 @@ Ex 3 The SQL query deleted a record in the terms table.
 
 Ex 4 The SQL inserted a record in the Invoices table.
 ![2023-02-08 (4)](https://user-images.githubusercontent.com/122293091/217689248-bcb36f79-70b6-4a76-b2a8-b4c3f9ba2664.png)
+
+Ex 5 The SQL inserted 2 rows into Invoice_Line_Items.
+
+![2023-02-08 (5)](https://user-images.githubusercontent.com/122293091/217691003-89fdc9bf-1553-45a1-accd-5fb203c1d1b1.png)
