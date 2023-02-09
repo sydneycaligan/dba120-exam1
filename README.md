@@ -57,5 +57,6 @@ WHERE invoice_id = 115;
 
 DELETE FROM invoices
 WHERE invoice_id = 115;
+
 Ex 9 The SQL query deletes a row from Invoice_Line_Items and deletes a row from Invoices.
 ![2023-02-08 (9)](https://user-images.githubusercontent.com/122293091/217696324-5dbbe7d7-f311-4c2f-9cd2-882c9885b3c6.png)
