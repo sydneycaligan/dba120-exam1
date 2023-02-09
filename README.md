@@ -17,5 +17,8 @@ Ex 5 The SQL query inserted 2 rows into Invoice_Line_Items.
 ![2023-02-08 (5)](https://user-images.githubusercontent.com/122293091/217691003-89fdc9bf-1553-45a1-accd-5fb203c1d1b1.png)
 
 Ex 6 The SQL query updated the statement from ex 4 in the Invoices table.
-
 ![2023-02-08 (6)](https://user-images.githubusercontent.com/122293091/217692105-e2eb8a43-350f-4c46-8e2b-8f06a6abc3d6.png)
+
+Ex 7 The SQL query updates a row in the Vendors table.
+
+![2023-02-08 (7)](https://user-images.githubusercontent.com/122293091/217692795-9b7e6ec7-b854-4a84-bc9b-65f9e5dcaec1.png)
