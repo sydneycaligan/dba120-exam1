@@ -10,9 +10,12 @@ Ex 2 The SQL query updated a record in the terms table.
 Ex 3 The SQL query deleted a record in the terms table.
 ![2023-02-08 (2)](https://user-images.githubusercontent.com/122293091/217687039-096dfbd5-2565-44aa-b068-25228fe6a117.png)
 
-Ex 4 The SQL inserted a record in the Invoices table.
+Ex 4 The SQL query inserted a record in the Invoices table.
 ![2023-02-08 (4)](https://user-images.githubusercontent.com/122293091/217689248-bcb36f79-70b6-4a76-b2a8-b4c3f9ba2664.png)
 
-Ex 5 The SQL inserted 2 rows into Invoice_Line_Items.
-
+Ex 5 The SQL query inserted 2 rows into Invoice_Line_Items.
 ![2023-02-08 (5)](https://user-images.githubusercontent.com/122293091/217691003-89fdc9bf-1553-45a1-accd-5fb203c1d1b1.png)
+
+Ex 6 The SQL query updated the statement from ex 4 in the Invoices table.
+
+![2023-02-08 (6)](https://user-images.githubusercontent.com/122293091/217692105-e2eb8a43-350f-4c46-8e2b-8f06a6abc3d6.png)
